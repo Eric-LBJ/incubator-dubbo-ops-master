@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### dubbo-ops
 [![Build Status](https://travis-ci.org/apache/incubator-dubbo-ops.svg?branch=master)](https://travis-ci.org/apache/incubator-dubbo-ops) 
 [![Gitter](https://badges.gitter.im/alibaba/dubbo.svg)](https://gitter.im/alibaba/dubbo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
@@ -33,3 +34,7 @@ Then you will find:
 
 
 
+=======
+# incubator-dubbo-ops-master
+dubbo管理控制台
+>>>>>>> 0ba63f9df783813a4f1ba65ca995ca17d22ee865
